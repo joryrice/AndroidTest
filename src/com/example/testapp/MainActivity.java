@@ -1,3 +1,5 @@
+// Comment.
+
 package com.example.testapp;
 
 import android.os.Bundle;
